@@ -5,7 +5,8 @@ Standard starter template for React based projects. Uses Webpack for bundling, B
 ## Installation
 
 - Clone repository
-- Then initialize node and install dependencies like so:
+- Navigate to cloned directory
+- Initialize node and install dependencies like so:
 
 ```
 npm install
