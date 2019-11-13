@@ -17,19 +17,8 @@ npm install
 ```
 npm run start
 ```
-or
-
-```
-npm start
-```
 
 ### Compiles and minifies for productions
 ```
 npm run build
-```
-
-or
-
-```
-npm build
 ```
