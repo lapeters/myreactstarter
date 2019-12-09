@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { hot } from 'react-hot-loader';
-import './scss/App.scss';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello, Girl!</h1>
+      <h1>Hello, World!</h1>
     </div>
   );
 }
